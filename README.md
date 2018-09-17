@@ -1,2 +1,2 @@
-# IonicHelloWorld
-Hello world Ionic app
+# Ionic Hello World
+Hello world Ionic application
